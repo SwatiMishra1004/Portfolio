@@ -10,8 +10,6 @@ HTML: For structuring the content, like headings, paragraphs, lists, and forms.
 CSS: For styling, including layout, colors, fonts, and responsiveness. Use Flexbox or Grid for structure, and CSS transitions for smooth effects.
 JavaScript: For interactive elements like a dynamic navigation menu, modal popups for project details, and form validation.
 
-![pro-1](https://github.com/user-attachments/assets/c9064718-f926-44d9-bfc7-b7063100860d)
-
 Project Structure -
 Index.html: The main HTML file that contains all sections (Home, About, Skills, Projects, Contact).
 Styles.css: A dedicated CSS file that defines the visual styling and layout.
