@@ -2,6 +2,8 @@
 
 A portfolio website is a personal platform that showcases an individual’s skills, projects, and accomplishments in a visually compelling and organized way.
 
+![pro-1](https://github.com/user-attachments/assets/c9064718-f926-44d9-bfc7-b7063100860d)
+
 Features -
 Includes a landing page, about section, skills section, project gallery, and a contact form. 
 
