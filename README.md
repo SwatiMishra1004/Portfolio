@@ -12,5 +12,5 @@ JavaScript: For interactive elements like a dynamic navigation menu, modal popup
 
 Project Structure -
 Index.html: The main HTML file that contains all sections (Home, About, Skills, Projects, Contact).
-Styles.css: A dedicated CSS file that defines the visual styling and layout.
-Script.js: A JavaScript file for functionality, such as smooth scrolling, form validation, and interactive elements.
+s-2.css: A dedicated CSS file that defines the visual styling and layout.
+m-2.js: A JavaScript file for functionality, such as smooth scrolling, form validation, and interactive elements.
